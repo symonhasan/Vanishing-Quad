@@ -4,6 +4,10 @@ OpenGL Mini Game
 ## About
 There are some object randomly at random position. The Green object in the middle can move in four direction and can also rotate both clockwise & anti-clockwise. Objective of this game is to vanish other objects with the green quad within short period of time. When the green object in the middle touch another object the object disappear and score increase.
 
+## Screenshot
+
+![Screenshot](image.png)
+
 ## Controls
 
   W - Move Up
